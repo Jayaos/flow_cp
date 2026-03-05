@@ -10,6 +10,19 @@ We will update the repository following the ICLR camera-ready deadline, by the e
 </p>
 
 
+### Implementation Example
+
+We provide a colab.
+
+<a target="_blank" href="https://colab.research.google.com/github/Jayaos/flow_test/blob/master/fcp_implementation_example.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
+<a target="_blank" href="https://colab.research.google.com/github/Jayaos/flow_test/blob/master/base_predictor_example.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
 
 ### Citation
