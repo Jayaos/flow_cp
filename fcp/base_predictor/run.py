@@ -21,6 +21,8 @@ def run_base_predictor(base_predictor_config, dataset_config, device):
 
     for i in range(dataset_config.repeat_num):
 
+        print("run {}".format(i+1))
+
         if total_location_num:
             location_selected = list(np.random.choice(total_location_num, dataset_config.location_num, replace=False))
         else:
