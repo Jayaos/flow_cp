@@ -40,10 +40,9 @@ In this colab notebook, we can reproduce experiments using FCP on wind 2d data. 
 ### Citation
 
 ```bibtex
-@article{lee2026flow,
+@article{lee2025flow,
   title={Flow-based Conformal Prediction for Multi-dimensional Time Series},
   author={Lee, Junghwan and Xu, Chen and Xie, Yao},
-  booktitle={The Fourteenth International Conference on Learning Representations},
-  year={2026}
+  journal={arXiv preprint arXiv:2502.05709},
+  year={2025}
 }
-
