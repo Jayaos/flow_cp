@@ -10,9 +10,11 @@ This repository contains soruce code of the method in the paper **["Flow-based C
 
 ### Implementation Example
 
-The code was written in Python 3.9.13 with torch 2.2.2+cu118. Other dependencies are available in requirements.txt.
+The code was written in Python 3.9.13 with torch 2.2.2+cu118. Additional dependencies are listed in ```requirements.txt```.
 
-We provide a colab notebooks to go through obtaining the results of base predictor and conducting experiments using FCP.
+We also provide Colab notebooks that walk through how to obtain the base predictor results and run experiments with FCP.
+
+You can adapt these implementation examples to suit your own experiments.
 
 
 #### Obtaining results of base predictor
@@ -26,7 +28,7 @@ In this colab notebook, we train base predictors and obtain results on wind data
 
 #### Implementing FCP
 
-In this colab notebook, we can reproduce experiments using FCP on wind 2d data. GPU is required.
+In this colab notebook, we can reproduce experiments using FCP on wind 2d data. GPU accelerator for colab is recommended.
 
 <a target="_blank" href="https://colab.research.google.com/github/Jayaos/flow_test/blob/master/fcp_implementation_example.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
