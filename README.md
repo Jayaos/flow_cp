@@ -1,3 +1,6 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2502.05709-b31b1b.svg)](https://arxiv.org/pdf/2502.05709)
+[![Paper](https://img.shields.io/badge/ICLR2026-Paper-red.svg)](https://iclr.cc/virtual/2026/poster/10009186)
+
 ## Flow-based Conformal Prediction for Multi-dimensional Time Series
 
 This repository contains soruce code of the method in the paper **["Flow-based Conformal Prediction for Multi-dimensional Time Series"](https://arxiv.org/pdf/2502.05709)**.
